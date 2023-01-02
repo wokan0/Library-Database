@@ -12,7 +12,7 @@ The program creates a database for a library with book records and allows book c
   - Search the database for a specific file
   
   ## 2. Installation guide
-  The program requires sqlite3 to be installed
+  The program requires sqlite3 to be installed, which can be downloaded from this website https://www.sqlite.org/download.html.
   
   ## 3. Usage
   Bookstore.py and database.py files contain all the functions required for taking the input from the book clerk and updating the database.
